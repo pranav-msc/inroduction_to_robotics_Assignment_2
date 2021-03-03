@@ -1,4 +1,4 @@
-# inroduction_to_robotics_Assignment_2
+# introduction_to_robotics_Assignment_2
 
 
 ## Problem Statement:
